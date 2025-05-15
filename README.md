@@ -82,4 +82,9 @@ Export or deploy models into production environments
 Installing transformers and torch equips you with tools to explore state-of-the-art AI, build intelligent applications, or research the next breakthrough in NLP. Together, they form the core of modern deep learning for language understanding and generation. Whether you're a beginner in AI or a seasoned developer, this installation is your gateway to powerful and scalable machine learning solutions.
 
 * OUTPUT:  ![Image](https://github.com/user-attachments/assets/9728d0dd-07a7-4416-abfb-0963c6d65012)
+* ![Image](https://github.com/user-at
+
+![Image](https://github.com/user-attachments/assets/da8a55cc-9f63-4bab-9fd7-e1f6fe802489)
+
+tachments/assets/9728d0dd-07a7-4416-abfb-0963c6d65012)
 *          
