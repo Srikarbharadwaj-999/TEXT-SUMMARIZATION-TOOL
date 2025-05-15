@@ -87,4 +87,5 @@ Installing transformers and torch equips you with tools to explore state-of-the-
 ![Image](https://github.com/user-attachments/assets/da8a55cc-9f63-4bab-9fd7-e1f6fe802489)
 
 tachments/assets/9728d0dd-07a7-4416-abfb-0963c6d65012)
-*          
+*          ![image](https://github.com/user-attachments/assets/0f0aebef-0b0b-4008-a06e-99f791dd7209)
+
